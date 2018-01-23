@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const kirby = new Discord.Client();
 
-kirby.login(process.env.TOKEN);
+kirby.login(Mzg0NzkzNjkwNDE5NDk0OTMy.DUUumA.cVam-1ZsawNxKHXi6WzZD6YV35g);
 
 kirby.on('ready', () => {
   console.log(` Kirby Prêt !`);
